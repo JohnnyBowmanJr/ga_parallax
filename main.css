@@ -1,0 +1,13 @@
+img{
+  position: absolute;
+  top: 100px;
+}    
+#yoda{
+  left: 100px;
+}
+#picard{
+  left: 400px;
+}
+#arnold{
+  left: 700px;
+}
